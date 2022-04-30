@@ -1,2 +1,2 @@
 # Random-Information
-Wikipedia special random özelliğini kullanarak rastgele aldığımız konu başlıklarını kullanıcıya sorarak açmamızı sağlayan bir proje.
+It is a project that allows us to open the topics we receive randomly by using the Wikipedia special random feature by asking the user.
